@@ -1,0 +1,32 @@
+{
+  "patient_id": "BraTS2021_01017",
+  "model": "combined",
+  "checkpoint": "outputs/combined_ds_best.pth",
+  "voxel_spacing_mm": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "volumetrics": {
+    "whole_tumor": {
+      "voxels": 426445,
+      "volume_cm3": 426.445
+    },
+    "tumor_core": {
+      "voxels": 148928,
+      "volume_cm3": 148.928
+    },
+    "enhancing_tumor": {
+      "voxels": 148928,
+      "volume_cm3": 148.928
+    },
+    "edema": {
+      "voxels": 277517,
+      "volume_cm3": 277.517
+    },
+    "necrotic_core": {
+      "voxels": 0,
+      "volume_cm3": 0.0
+    }
+  }
+}

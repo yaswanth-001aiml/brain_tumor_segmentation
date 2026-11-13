@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Datasets and download caches (BraTS / Synapse datasets)
+dataset/
+.synapseCache/
+*.zip
+*.tar
+*.tar.gz
+
+# Large model weights and checkpoints (prevents GitHub 100MB limit errors)
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.h5
+*.onnx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db

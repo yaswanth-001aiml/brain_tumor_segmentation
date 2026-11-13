@@ -1,0 +1,2 @@
+epoch,train_loss,val_loss,val_wt_dice,val_tc_dice,val_et_dice,val_mean_dice,lr,time_sec
+1,2.1994,2.0629,0.7275,0.6345,0.6947,0.6856,1e-06,5.37

@@ -1,0 +1,18 @@
+# Deep Learning & PyTorch
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Medical Imaging (NIfTI Volumes)
+nibabel>=5.0.0
+scipy>=1.9.0
+
+# Numerical Computing & Data
+numpy>=1.22.0
+pandas>=1.5.0
+
+# Plotting & Visualization
+matplotlib>=3.6.0
+
+# System Monitoring & Utilities
+psutil>=5.9.0
+tqdm>=4.65.0

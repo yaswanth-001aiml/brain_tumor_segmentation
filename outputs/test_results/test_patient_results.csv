@@ -1,0 +1,2 @@
+patient_id,wt_dice,tc_dice,et_dice,mean_dice,wt_sens,wt_spec,tc_sens,tc_spec,et_sens,et_spec
+BraTS2021_01023,0.0202,0.0081,0.0296,0.0193,1.0,0.0004,0.9666,0.1881,0.8132,0.857

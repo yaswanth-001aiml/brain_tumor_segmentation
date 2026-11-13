@@ -1,0 +1,13 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 2.6493,
+    "val_loss": 2.2734,
+    "val_wt_dice": 0.446,
+    "val_tc_dice": 0.2269,
+    "val_et_dice": 0.0001,
+    "val_mean_dice": 0.2243,
+    "lr": 1e-06,
+    "time_sec": 3.87
+  }
+]
